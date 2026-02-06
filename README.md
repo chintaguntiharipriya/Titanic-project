@@ -144,3 +144,7 @@ Open:
 nginx
 Copy code
 Titanic cs.collab.ipynb
+
+AUTHOR
+NAME: HARIPRIYA
+EMAIL-chintaguntiharipriya@gmail.com
